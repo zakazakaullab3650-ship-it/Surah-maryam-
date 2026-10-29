@@ -1,0 +1,6 @@
+{
+  "name": "Surah Maryam - Live Quran Companion",
+  "description": "Interactive study, recitation, and real-time voice conversation on Surah Maryam with Gemini Live API",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
